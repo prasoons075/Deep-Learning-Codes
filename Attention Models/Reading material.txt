@@ -1,0 +1,3 @@
+https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05
+https://github.com/hlamba28/NMT-with-Attention-Mechanism/blob/master/NMT_Attention_Marathi.ipynb
+https://www.tensorflow.org/tutorials/text/nmt_with_attention
